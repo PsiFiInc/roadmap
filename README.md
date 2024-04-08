@@ -1,6 +1,8 @@
 # PsiFi Roadmap
 
-Welcome to the PsiFi Roadmap GitHub repository! Here, you'll find the detailed trajectory of our innovative platform, combining the ease of trading with the joy of social interaction in the crypto realm, inspired by the simplicity of Robinhood and the connectivity of Venmo.
+Welcome to the PsiFi Roadmap GitHub repository!
+
+Here, you'll find the detailed trajectory of our innovative platform, combining the ease of trading with the joy of social interaction in the crypto realm, inspired by the simplicity of Robinhood and the connectivity of Venmo.
 
 ## Overview
 
